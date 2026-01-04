@@ -51,7 +51,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Atikur Rahman, an experienced mobile app developer with over 3 years of expertise in Android app development
+              Hi, I’m Atikur Rahman, an experienced Mobile<br />App Developer With over 3 years of expertise in Android app development
             </p>
 
             <Button
